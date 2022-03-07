@@ -1,7 +1,7 @@
 /***
  * 
  * https://programmers.co.kr/learn/courses/30/lessons/43162#
- * DFS - 네트워크
+ * 탐색 - 네트워크
  * 
  */
 
